@@ -53,6 +53,8 @@ node_modules
 /bots/node_modules/
 package-lock.json
 
+twitter
+
 # OS X
 .DS_Store
 
